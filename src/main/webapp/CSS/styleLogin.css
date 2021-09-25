@@ -1,0 +1,73 @@
+/*color complementario codigo #4F0902 (vino-tinto)*/
+body {
+  margin: 0;
+  padding: 0;
+  background:url(https://cdn.pixabay.com/photo/2016/03/02/20/13/grocery-1232944_960_720.jpg);
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+}
+
+.login-box {
+  width: 35%;
+  height: 630px;
+  background:#27A827;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 10px 30px 20px ;
+  
+}
+
+.login-box .avatar {
+  
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  top: -50px;
+  left: calc(50% - 50px);
+}
+
+.login-box h1 {
+  margin: 0;
+  padding: 80px 0 20px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.login-box label {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  display: block;
+}
+
+.login-box input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.login-box input[type="text"], .login-box input[type="password"] {
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+  height: 50px;
+  color: #fff;
+  font-size: 16px;
+}
+.boton {
+  background-color: #ffffff;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
