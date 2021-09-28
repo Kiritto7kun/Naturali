@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="CSS/menu.css">
     <link rel="stylesheet" type="text/css" href="CSS/stylevistas.css">
 </head>
-<body>
+<body class="bodyUsu">
     <aside class="cont">
         <header class="cont_header" >
             <a href="menu.html">
