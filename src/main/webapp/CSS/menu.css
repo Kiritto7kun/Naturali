@@ -33,6 +33,48 @@ body {
   position: relative;
 }
 
+.bodyUsu{
+  background-image: url("../Proyecto/iconos/Fondo1.png");
+  background-position: right;
+  background-size: auto;
+  position: relative;
+}
+
+.bodyCli{
+  background-image: url("../Proyecto/iconos/Fondo2.png");
+  background-position: right;
+  background-size: auto;
+  position: relative;
+}
+
+.bodyProve{
+  background-image: url("../Proyecto/iconos/Fondo3.png");
+  background-position: right;
+  background-size: auto;
+  position: relative;
+}
+
+.bodyProdu{
+  background-image: url("../Proyecto/iconos/Fondo4.png");
+  background-position: right;
+  background-size: auto;
+  position: relative;
+}
+
+.bodyVent{
+  background-image: url("../Proyecto/iconos/Fondo5.png");
+  background-position: right;
+  background-size: auto;
+  position: relative;
+}
+
+.bodyRep{
+  background-image: url("../Proyecto/iconos/Fondo6.png");
+  background-position: right;
+  background-size: auto;
+  position: relative;
+}
+
 p{
     color: seashell;
     padding-left: 4px;
